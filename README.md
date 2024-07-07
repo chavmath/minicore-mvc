@@ -68,7 +68,7 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina local:
 
 4. **Ejecutar la aplicación**
    ```bash
-   npm run serve
+   npm run dev
    ```
 
    La aplicación estará disponible en `http://localhost:8080`.
@@ -77,31 +77,16 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina local:
 
 ### Gestión de Empleados
 
-- **Agregar Empleados**: Utiliza el formulario en la página de empleados para agregar nuevos empleados.
 - **Ver Empleados**: La tabla muestra una lista de todos los empleados almacenados en Firebase.
 
 ### Gestión de Tareas
 
-- **Agregar Tareas**: Utiliza el formulario en la página de tareas para agregar nuevas tareas.
 - **Ver Tareas**: La tabla muestra una lista de todas las tareas almacenadas en Firebase.
 - **Filtrar Tareas**: Utiliza el componente de filtrado para ver tareas en un rango de fechas específico.
 
 ### Gestión de Proyectos
 
-- **Agregar Proyectos**: Utiliza el formulario en la página de proyectos para agregar nuevos proyectos.
 - **Ver Proyectos**: La tabla muestra una lista de todos los proyectos almacenados en Firebase.
-
-## Contribución
-
-Las contribuciones son bienvenidas. Puedes contribuir de las siguientes maneras:
-
-- Reportar problemas y errores
-- Enviar solicitudes de características
-- Crear pull requests con mejoras
-
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
 
 ## Contacto
 
